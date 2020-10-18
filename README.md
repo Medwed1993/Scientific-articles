@@ -36,9 +36,9 @@ Information Technologies and Security 2019. CEUR Workshop Proceedings.|"Analysis
 Міжнародна науково-технічна конференція "КОМП'ЮТЕРНІ ТА ІНФОРМАЦІЙНІ СИСТЕМИ І ТЕХНОЛОГІЇ"|"The usage of dependency graphs to test the security of mobile software applications"|[Link](https://github.com/Medwed1993/Scientific-publications/blob/main/The%20usage%20of%20dependency%20graphs%20to%20test%20the%20security%20of%20mobile%20software%20applications.pdf)
 
 # Habr
-Динамическое тестирование Андроид приложений. Link: https://habr.com/ru/post/432820/
-Статический анализ мобильных приложений. Link: https://habr.com/ru/post/429252/
-Отключение проверок состояния среды исполнения в Android-приложении. Link: https://habr.com/ru/post/419171/
-Методика тестирования крипто-бирж и крипто-кошельков. Link: https://habr.com/ru/post/418879/
-Сравнение инструментов сканирования локальной сети. Lunk: https://habr.com/ru/post/353856/
-Применение методологии OWASP Mobile TOP 10 для тестирования Android приложений. Link: https://habr.com/ru/post/352252/
+> Динамическое тестирование Андроид приложений. Link: https://habr.com/ru/post/432820/
+> Статический анализ мобильных приложений. Link: https://habr.com/ru/post/429252/
+> Отключение проверок состояния среды исполнения в Android-приложении. Link: https://habr.com/ru/post/419171/
+> Методика тестирования крипто-бирж и крипто-кошельков. Link: https://habr.com/ru/post/418879/
+> Сравнение инструментов сканирования локальной сети. Lunk: https://habr.com/ru/post/353856/
+> Применение методологии OWASP Mobile TOP 10 для тестирования Android приложений. Link: https://habr.com/ru/post/352252/
