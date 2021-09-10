@@ -34,7 +34,10 @@ Books|Articles|Link
 -----|--------|------
 Information Technologies and Security 2019. CEUR Workshop Proceedings.|"Analysis of testing approaches to Android mobile application vulnerabilities"|[Link](https://github.com/Medwed1993/Scientific-publications/blob/main/Analysis%20of%20testing%20approaches%20to%20Android%20mobile%20application%20vulnerabilities.pdf)
 Міжнародна науково-технічна конференція "КОМП'ЮТЕРНІ ТА ІНФОРМАЦІЙНІ СИСТЕМИ І ТЕХНОЛОГІЇ"|"The usage of dependency graphs to test the security of mobile software applications"|[Link](https://github.com/Medwed1993/Scientific-publications/blob/main/The%20usage%20of%20dependency%20graphs%20to%20test%20the%20security%20of%20mobile%20software%20applications.pdf)
-
+### 2021
+Books|Articles|Link
+-----|--------|------
+Information Technology and Security. January-June 2020. Vol. 8. Iss. 1 (14)|"Mobile applications vulnerabilities testing model"|[Link]
 # Habr
 * Динамическое тестирование Андроид приложений. Link: https://habr.com/ru/post/432820/
 * Статический анализ мобильных приложений. Link: https://habr.com/ru/post/429252/
