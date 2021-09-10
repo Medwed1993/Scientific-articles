@@ -37,7 +37,7 @@ Information Technologies and Security 2019. CEUR Workshop Proceedings.|"Analysis
 ### 2021
 Books|Articles|Link
 -----|--------|------
-Information Technology and Security. January-June 2020. Vol. 8. Iss. 1 (14)|"Mobile applications vulnerabilities testing model"|[Link]
+Information Technology and Security. January-June 2020. Vol. 8. Iss. 1 (14)|"Mobile applications vulnerabilities testing model"|[Link](http://its.iszzi.kpi.ua/article/view/218003/232409)
 # Habr
 * Динамическое тестирование Андроид приложений. Link: https://habr.com/ru/post/432820/
 * Статический анализ мобильных приложений. Link: https://habr.com/ru/post/429252/
